@@ -5,4 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes: []
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 49e6c7fe1b98d6645a7a0fda10a75952, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 77d7b315daf36bb40942d0831851cf2f, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 20abfec2143352c4fb032dfd53c4f2f5, type: 2}
